@@ -12,6 +12,10 @@ C:\Users\YourName\Desktop\mysite>
         Password: Enter Password
         Password (again): Enter Password again
         Superuser created successfully.
+        
+When you will access to admin page for example in localhost
+http://127.0.0.1:8000/admin
+you have to enter username and password from above 
 
 5) python -m pip install django-tinymce4-lite.
 6) python manage.py runserver
